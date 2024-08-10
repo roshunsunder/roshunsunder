@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Roshun!
-- 👀 I’m interested in fullstack software engineering, low-level systems, and machine learning.
-- 🌱 I’m currently learning assembly as part of a computer systems course at Columbia.
-- 💞️ I’m looking to collaborate on anything, from living open-source projects to my own projects / repositories!
-- 📫 How to reach me: My email is roshun.sunder@gmail.com, or you can find contact information on my website www.roshunsunder.com
+👋 Hi, I’m Roshun!
+
+Here you'll find my experiments and projects in machine learning! I'm interested in optimizing models for realtime applications, particularly when it comes to NLP as well as model orchestration / multimodal models.
+
+Email me at roshun.sunder@gmail.com
 
 <!---
 roshunsunder/roshunsunder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
